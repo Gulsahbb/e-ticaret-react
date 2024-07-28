@@ -1,0 +1,19 @@
+.logo {
+    width: 120px;
+    height: 90px;
+}
+
+.logo-p {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #c62d2d;
+    margin-left: -25px;
+}
+
+.search-input {
+    border: none;
+    border-bottom: 1px solid #c62d2d;
+    padding: 5px 10px;
+    outline: none;
+}

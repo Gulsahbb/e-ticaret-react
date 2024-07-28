@@ -1,3 +1,3 @@
 # e-ticaret-react
 
-E Tİcaret Projesi Deneme
+E Ticaret Projesi Deneme

@@ -16,4 +16,17 @@
     border-bottom: 1px solid #c62d2d;
     padding: 5px 10px;
     outline: none;
+    margin-right: 10px;
+}
+
+.icon {
+    font-size: 18px;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
+
+#root {
+    height: 100vh;
 }
